@@ -9,3 +9,10 @@ body {
     background-size: cover;
   }
 }
+@media (min-width: 375px) {
+  body {
+    background-image: url(../images/nenado.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
