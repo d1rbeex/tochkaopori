@@ -1,0 +1,11 @@
+body {
+  background-image: url(../images/nenado.jpg);
+  background-repeat: no-repeat;
+}
+@media (min-width: 412px) {
+  body {
+    background-image: url(../images/nenado.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
