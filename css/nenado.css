@@ -4,14 +4,14 @@ body {
 }
 @media (min-width: 412px) {
   body {
-    background-image: url(../images/nenado.jpg);
+    background-image: url(../images/kot.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
 }
 @media (min-width: 375px) {
   body {
-    background-image: url(../images/nenado.jpg);
+    background-image: url(../images/kot.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
